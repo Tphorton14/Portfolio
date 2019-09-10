@@ -6,7 +6,7 @@ i {
 }
 
 .colOne {
-    background-image: url("/images/projetOne.jpg");
+    background-image: url("images/projetOne.jpg");
     background-size: cover;
     background-position: center;
     margin-right: 100px;
@@ -14,14 +14,14 @@ i {
 }
 
 .colTwo {
-    background-image: url("/images/projectTwo.jpg");
+    background-image: url("images/projectTwo.jpg");
     background-size: cover;
     background-position: center;
     box-shadow: 0px 0px 1px 3px rgba(211, 211, 211, 0.384), 0px 0px 0px 4px rgb(0,0,0,.12);
 }
 
 .colThree {
-    background-image: url("/images/triv.jpg");
+    background-image: url("images/triv.jpg");
     background-size: cover;
     background-position: center;
     margin-right: 100px;
@@ -29,7 +29,7 @@ i {
 }
 
 .colFive {
-    background-image: url("/images/.jpg");
+    background-image: url("images/.jpg");
     background-size: cover;
     background-position: center;
     margin-right: 100px;
@@ -37,14 +37,14 @@ i {
 }
 
 .colFour {
-    background-image: url("/images/find.jpg");
+    background-image: url("images/find.jpg");
     background-size: cover;
     background-position: center;
     box-shadow: 0px 0px 1px 3px rgba(211, 211, 211, 0.384), 0px 0px 0px 4px rgb(0,0,0,.12);
 }
 
 .colSix {
-    background-image: url("/images/.jpg");
+    background-image: url("images/.jpg");
     background-size: cover;
     background-position: center;
     box-shadow: 0px 0px 1px 3px rgba(211, 211, 211, 0.384), 0px 0px 0px 4px rgb(0,0,0,.12);
