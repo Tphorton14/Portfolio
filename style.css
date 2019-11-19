@@ -10,26 +10,29 @@ i {
     font-weight: bold;
 }
 .colOne {
-    background: url("images/projetOne.jpg");
+    background: url("images/projetOne.jpg") #414143;
     background-size: cover;
     background-position: center;
     margin-right: 100px;
     box-shadow: 0px 0px 1px 3px rgba(211, 211, 211, 0.384), 0px 0px 0px 4px rgb(0,0,0,.12);
+    background-blend-mode: multiply;
 }
 
 .colTwo {
-    background: url("images/projectTwo.jpg");
+    background: url("images/projectTwo.jpg")  #414143;
     background-size: cover;
     background-position: center;
     box-shadow: 0px 0px 1px 3px rgba(211, 211, 211, 0.384), 0px 0px 0px 4px rgb(0,0,0,.12);
+    background-blend-mode: multiply;
 }
 
 .colThree {
-    background: url("images/articles.jpg");
+    background: url("images/articles.jpg") #414143;
     background-size: cover;
     background-position: center;
     margin-right: 100px;
     box-shadow: 0px 0px 1px 3px rgba(211, 211, 211, 0.384), 0px 0px 0px 4px rgb(0,0,0,.12);
+    background-blend-mode: multiply;
 }
 
 .colFive {
@@ -41,10 +44,11 @@ i {
 }
 
 .colFour {
-    background: url("images/find.jpg");
+    background: url("images/find.jpg") #414143;
     background-size: cover;
     background-position: center;
     box-shadow: 0px 0px 1px 3px rgba(211, 211, 211, 0.384), 0px 0px 0px 4px rgb(0,0,0,.12);
+    background-blend-mode: multiply;
 }
 
 .colSix {
@@ -243,6 +247,7 @@ a:hover {
     align-content: center;
     color: white;
     text-align: center;
+    
 }
 
 
