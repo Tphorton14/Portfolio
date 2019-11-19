@@ -10,7 +10,7 @@ i {
     font-weight: bold;
 }
 .colOne {
-    background: url("images/projetOne.jpg") #414143;
+    background: url("images/projetOne.JPG") #414143;
     background-size: cover;
     background-position: center;
     margin-right: 100px;
@@ -19,7 +19,7 @@ i {
 }
 
 .colTwo {
-    background: url("images/projectTwo.jpg")  #414143;
+    background: url("images/projectTwo.JPG")  #414143;
     background-size: cover;
     background-position: center;
     box-shadow: 0px 0px 1px 3px rgba(211, 211, 211, 0.384), 0px 0px 0px 4px rgb(0,0,0,.12);
@@ -27,7 +27,7 @@ i {
 }
 
 .colThree {
-    background: url("images/articles.jpg") #414143;
+    background: url("images/articles.JPG") #414143;
     background-size: cover;
     background-position: center;
     margin-right: 100px;
@@ -36,7 +36,7 @@ i {
 }
 
 .colFive {
-    background: url("images/.jpg");
+    background: url("images/.JPG");
     background-size: cover;
     background-position: center;
     margin-right: 100px;
@@ -44,7 +44,7 @@ i {
 }
 
 .colFour {
-    background: url("images/find.jpg") #414143;
+    background: url("images/find.JPG") #414143;
     background-size: cover;
     background-position: center;
     box-shadow: 0px 0px 1px 3px rgba(211, 211, 211, 0.384), 0px 0px 0px 4px rgb(0,0,0,.12);
