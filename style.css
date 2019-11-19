@@ -5,6 +5,10 @@ i {
     
 }
 
+.myContact{
+    font-size: 35px;
+    font-weight: bold;
+}
 .colOne {
     background: url("images/projetOne.jpg");
     background-size: cover;
