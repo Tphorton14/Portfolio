@@ -195,6 +195,10 @@ a:hover {
     color: #0bff01;
 }
 
+i:hover {
+    color: white;
+}
+
 .contact {
     width: 960px;
     margin: 0 auto;
